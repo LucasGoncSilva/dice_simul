@@ -1,0 +1,14 @@
+{
+  "name": "dice_simulator",
+  "version": "1.0.0",
+  "description": "As the name indicates, it's a dice simulator.",
+  "main": "dice_simul.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LucasGoncSilva",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
